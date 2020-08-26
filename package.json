@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "nodemon"
+  },
+  "name": "js_dependencies",
+  "author": {
+    "name": "Sergey Krikun"
+  },
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
